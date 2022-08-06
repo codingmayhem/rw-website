@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cisco on Cupper</title>
+    <link>https://ramons.work/tags/cisco/</link>
+    <description>Recent content in Cisco on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 02:01:58 +0530</lastBuildDate><atom:link href="https://ramons.work/tags/cisco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up EIGRP Lab</title>
+      <link>https://ramons.work/posts/setting-up-eigrp/</link>
+      <pubDate>Fri, 01 Jul 2022 02:01:58 +0530</pubDate>
+      
+      <guid>https://ramons.work/posts/setting-up-eigrp/</guid>
+      <description>In this lab we will setup EIGRP.
+EIGRP is a routing protocol used on Cisco routers
+This lab can be done on Packet Tracer, GNS3, CML, etc
+For info on how to run this lab visit &amp;ldquo;Running Labs&amp;rdquo; under &amp;ldquo;Show more&amp;rdquo; at the top of our website We will start with a topology of 3 routers, any Cisco IOS router will work for this.
+Our topology looks like this as a base:</description>
+    </item>
+    
+  </channel>
+</rss>

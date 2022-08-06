@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Cupper</title>
+    <link>https://ramons.work/tags/linux/</link>
+    <description>Recent content in Linux on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2020 02:01:58 +0530</lastBuildDate><atom:link href="https://ramons.work/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fix Screen Tearing In XFCE On AMD GPUs</title>
+      <link>https://ramons.work/posts/amd-xfce-tearing/</link>
+      <pubDate>Wed, 19 Feb 2020 02:01:58 +0530</pubDate>
+      
+      <guid>https://ramons.work/posts/amd-xfce-tearing/</guid>
+      <description>Screen tearing is still a common issue on Linux, more so on the XFCE desktop environment. Resolving it is fairly straight forward however can be hard to find the correct solution online as many tutorials tell you to do stuff like disable the composer which doesn&amp;rsquo;t need to be done.
+Screen tearing can be fixed with this one simple command
+xfconf-query -c xfwm4 -p /general/vblank_mode -t string -s &amp;quot;glx&amp;quot; --create And then reboot.</description>
+    </item>
+    
+  </channel>
+</rss>

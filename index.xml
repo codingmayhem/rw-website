@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cupper</title>
+    <link>https://ramons.work/</link>
+    <description>Recent content on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2022 02:01:58 +0530</lastBuildDate><atom:link href="https://ramons.work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R&#39;s Vulnerable Store (Web App)</title>
+      <link>https://ramons.work/posts/vulnerable-web-store/</link>
+      <pubDate>Mon, 01 Aug 2022 02:01:58 +0530</pubDate>
+      
+      <guid>https://ramons.work/posts/vulnerable-web-store/</guid>
+      <description>The fake store has been built on the latest front end technologies and runs on PHP 8.0 - Just because it looks modern doesn&amp;rsquo;t mean it&amp;rsquo;s secure. It features search, a cart and an account area. Cross site scripting attacks can be ran on all of the site including in input boxes and via URLs too.
+The account section is located in the cart page, the store doesn’t use a database but customer accounts are kept in another way.</description>
+    </item>
+    
+    <item>
+      <title>Setting up EIGRP Lab</title>
+      <link>https://ramons.work/posts/setting-up-eigrp/</link>
+      <pubDate>Fri, 01 Jul 2022 02:01:58 +0530</pubDate>
+      
+      <guid>https://ramons.work/posts/setting-up-eigrp/</guid>
+      <description>In this lab we will setup EIGRP.
+EIGRP is a routing protocol used on Cisco routers
+This lab can be done on Packet Tracer, GNS3, CML, etc
+For info on how to run this lab visit &amp;ldquo;Running Labs&amp;rdquo; under &amp;ldquo;Show more&amp;rdquo; at the top of our website We will start with a topology of 3 routers, any Cisco IOS router will work for this.
+Our topology looks like this as a base:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ramons.work/about/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramons.work/about/</guid>
+      <description>Hi! I’m Ramon 👋.
+I’m an IT professional with a interest in Linux, Security &amp;amp; IoT.
+I started my career managing Windows environments and now have worked my way up to managing Linux &amp;amp; Cloud infrastructure now.
+I hold many private IT certifications from the likes of Cisco &amp;amp; Microsoft and hold a bachelor&amp;rsquo;s degree with experience working in a diverse technical stack.
+On this site I&amp;rsquo;ll post guides for things ranging from simple Linux fixes to Cyber Security projects</description>
+    </item>
+    
+    <item>
+      <title>Bulk Domain Lookups In Powershell</title>
+      <link>https://ramons.work/posts/powershell-bulk-dns-lookups/</link>
+      <pubDate>Thu, 18 Mar 2021 12:13:38 +0530</pubDate>
+      
+      <guid>https://ramons.work/posts/powershell-bulk-dns-lookups/</guid>
+      <description>Here we have a powershell script / command to bulk lookup the MX/NS/A/CNAME records of domains from a .txt file full of domains.
+This comes in very useful when you need to bulk check a bunch of domains, for example to find out which domains are still pointing to an old nameserver.
+We want to open powershell up in Admin mode (the script does nothing that needs admin but I found it to sometimes crash or stutter in non admin mode)</description>
+    </item>
+    
+    <item>
+      <title>Fix Screen Tearing In XFCE On AMD GPUs</title>
+      <link>https://ramons.work/posts/amd-xfce-tearing/</link>
+      <pubDate>Wed, 19 Feb 2020 02:01:58 +0530</pubDate>
+      
+      <guid>https://ramons.work/posts/amd-xfce-tearing/</guid>
+      <description>Screen tearing is still a common issue on Linux, more so on the XFCE desktop environment. Resolving it is fairly straight forward however can be hard to find the correct solution online as many tutorials tell you to do stuff like disable the composer which doesn&amp;rsquo;t need to be done.
+Screen tearing can be fixed with this one simple command
+xfconf-query -c xfwm4 -p /general/vblank_mode -t string -s &amp;quot;glx&amp;quot; --create And then reboot.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ramons.work/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramons.work/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

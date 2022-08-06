@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XSS on Cupper</title>
+    <link>https://ramons.work/tags/xss/</link>
+    <description>Recent content in XSS on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2022 02:01:58 +0530</lastBuildDate><atom:link href="https://ramons.work/tags/xss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R&#39;s Vulnerable Store (Web App)</title>
+      <link>https://ramons.work/posts/vulnerable-web-store/</link>
+      <pubDate>Mon, 01 Aug 2022 02:01:58 +0530</pubDate>
+      
+      <guid>https://ramons.work/posts/vulnerable-web-store/</guid>
+      <description>The fake store has been built on the latest front end technologies and runs on PHP 8.0 - Just because it looks modern doesn&amp;rsquo;t mean it&amp;rsquo;s secure. It features search, a cart and an account area. Cross site scripting attacks can be ran on all of the site including in input boxes and via URLs too.
+The account section is located in the cart page, the store doesn’t use a database but customer accounts are kept in another way.</description>
+    </item>
+    
+  </channel>
+</rss>
