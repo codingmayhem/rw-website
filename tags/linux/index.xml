@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on Cupper</title>
+    <title>Linux on Ramons.Work</title>
     <link>https://ramons.work/tags/linux/</link>
-    <description>Recent content in Linux on Cupper</description>
+    <description>Recent content in Linux on Ramons.Work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Feb 2020 02:01:58 +0530</lastBuildDate><atom:link href="https://ramons.work/tags/linux/index.xml" rel="self" type="application/rss+xml" />
